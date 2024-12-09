@@ -1,0 +1,16 @@
+1-Ajouter de la bibliotheque customtkinter
+
+#Ecouter et Convertir la parole en texte
+2-pip install SpeechRecognition
+
+#Permet a l'ordinateur de parler(synthese vocal)
+pip install pyttsx3
+
+#Faire des recherches sur youtube et retourne un dictionnaire
+pip install youtube-search
+
+#Audio 
+pip install pyaudio
+
+############Assistant v2#######"
+pip install stt sounddevice numpy scipy
